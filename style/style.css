@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url('/style/Fonts/Montserrat-Bold.otf');
+}
+
+body {
+    margin: 0;
+    background-color: antiquewhite;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.nav {
+
+    background: transparent;
+}
+
+.bg-light {
+    background-color: transparent!important;
+}
+
+ul {
+    text-transform: uppercase;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+.lighter {
+    font-weight: lighter;
+}
